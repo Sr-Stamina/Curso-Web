@@ -1,6 +1,9 @@
 body{
     background-color: rosybrown;
 }
+img{
+    border-radius: 17px;
+}
 h1{
     color: purple;
     font-size: 36px;
